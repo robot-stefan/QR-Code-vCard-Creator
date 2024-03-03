@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:LastName;FirstName;;;
+FN:FirstName LastName
+ADR;TYPE=work:P.O. Box #;APT#_SUITE#;STREET_ADDRESS;CITY;STATE;ZIP;COUNTRY
+TEL;TYPE="cell,text,work":+1-###-###-####
+TZ:America/New_York
+EMAIL;TYPE=work:firstname.lastname@mycorp.mycorp
+ORG:MyCorp
+URL;TYPE=work:https://www.mycorp.mycorp
+URL;TYPE=home:https://maybelinkedin?
+CATEGORIES:something,something2,something3
+PRODID:qrCodeGen.py//Python_v3.8.10//qrcode_v7.4.2
+REV:2024-03-03 17:11:28.163104
+END:VCARD
