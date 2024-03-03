@@ -8,5 +8,5 @@ This functionality is commented out as it creates a very dense QR code which may
 
 Extra Fields
 
-Not all contact managment apps will use the extra fields such as notes, catagores, secondary websites, etc that the vCard standard supports. It is best to rely on your primary contact info phone number, address, email.
+Not all contact managment apps will use the extra fields such as notes, catagories, secondary websites, etc that the vCard standard supports. It is best to rely on your primary contact info phone number, address, email.
 
